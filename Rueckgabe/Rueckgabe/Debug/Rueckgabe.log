@@ -1,0 +1,6 @@
+﻿  Main.c
+C:\Users\micha\source\repos\Rueckgabe\Rueckgabe\Main.c(56,15): warning C4474: "scanf": zu viele Argumente für Formatzeichenfolge übergeben
+C:\Users\micha\source\repos\Rueckgabe\Rueckgabe\Main.c(56,15): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\micha\source\repos\Rueckgabe\Rueckgabe\Main.c(57,15): warning C4474: "scanf": zu viele Argumente für Formatzeichenfolge übergeben
+C:\Users\micha\source\repos\Rueckgabe\Rueckgabe\Main.c(57,15): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  Rueckgabe.vcxproj -> C:\Users\micha\source\repos\Rueckgabe\Debug\Rueckgabe.exe
